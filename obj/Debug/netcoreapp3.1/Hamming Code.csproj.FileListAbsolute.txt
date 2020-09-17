@@ -1,0 +1,13 @@
+D:\С# Visual Studio\Hamming Code\bin\Debug\netcoreapp3.1\Hamming Code.exe
+D:\С# Visual Studio\Hamming Code\bin\Debug\netcoreapp3.1\Hamming Code.deps.json
+D:\С# Visual Studio\Hamming Code\bin\Debug\netcoreapp3.1\Hamming Code.runtimeconfig.json
+D:\С# Visual Studio\Hamming Code\bin\Debug\netcoreapp3.1\Hamming Code.runtimeconfig.dev.json
+D:\С# Visual Studio\Hamming Code\bin\Debug\netcoreapp3.1\Hamming Code.dll
+D:\С# Visual Studio\Hamming Code\bin\Debug\netcoreapp3.1\Hamming Code.pdb
+D:\С# Visual Studio\Hamming Code\obj\Debug\netcoreapp3.1\Hamming Code.csprojAssemblyReference.cache
+D:\С# Visual Studio\Hamming Code\obj\Debug\netcoreapp3.1\Hamming Code.csproj.CoreCompileInputs.cache
+D:\С# Visual Studio\Hamming Code\obj\Debug\netcoreapp3.1\Hamming Code.AssemblyInfoInputs.cache
+D:\С# Visual Studio\Hamming Code\obj\Debug\netcoreapp3.1\Hamming Code.AssemblyInfo.cs
+D:\С# Visual Studio\Hamming Code\obj\Debug\netcoreapp3.1\Hamming Code.dll
+D:\С# Visual Studio\Hamming Code\obj\Debug\netcoreapp3.1\Hamming Code.pdb
+D:\С# Visual Studio\Hamming Code\obj\Debug\netcoreapp3.1\Hamming Code.genruntimeconfig.cache
